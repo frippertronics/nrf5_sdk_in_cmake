@@ -1,0 +1,6 @@
+build/
+CMakeFiles/
+extern/nrf5_sdk/
+
+CMakeCache.txt
+.DS_Store
